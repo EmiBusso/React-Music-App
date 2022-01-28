@@ -68,6 +68,36 @@ function App() {
         nextSongIndex={nextSongIndex}
         songs={songs}
       />
+
+      <footer>
+        <div className="footer">
+          💻 This project was coded by{" "}
+          <a
+            href="https://mystifying-archimedes-2ecfd3.netlify.app/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            {" "}
+            Emilia Busso{" "}
+          </a>{" "}
+          and is{" "}
+          <a
+            href="https://github.com/EmiBusso/React-Music-App"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            open-sourced on Github
+          </a>{" "}
+          and{" "}
+          <a
+            href="https://focused-wozniak-ff9454.netlify.app/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            hosted on Netlify
+          </a>
+        </div>
+      </footer>
     </div>
   );
 }
