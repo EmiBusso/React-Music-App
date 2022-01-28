@@ -90,7 +90,7 @@ function App() {
           </a>{" "}
           and{" "}
           <a
-            href="https://focused-wozniak-ff9454.netlify.app/"
+            href="https://distracted-wilson-c9d809.netlify.app/"
             target="_blank"
             rel="noopener noreferrer"
           >
